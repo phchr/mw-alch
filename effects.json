@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Blind",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Burden",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Cure Blight Disease",
+    "baseCost": "2000",
+    "flags": "6"
+  },
+  {
+    "name": "Cure Common Disease",
+    "baseCost": "300",
+    "flags": "6"
+  },
+  {
+    "name": "Cure Paralyzation",
+    "baseCost": "100",
+    "flags": "6"
+  },
+  {
+    "name": "Cure Poison",
+    "baseCost": "9",
+    "flags": "1"
+  },
+  {
+    "name": "Damage Fatigue",
+    "baseCost": "4",
+    "flags": "1"
+  },
+  {
+    "name": "Damage Health",
+    "baseCost": "8",
+    "flags": "1"
+  },
+  {
+    "name": "Damage Intelligence",
+    "baseCost": "8",
+    "flags": "1"
+  },
+  {
+    "name": "Damage Magicka",
+    "baseCost": "8",
+    "flags": "1"
+  },
+  {
+    "name": "Detect Animal",
+    "baseCost": "0.75",
+    "flags": "0"
+  },
+  {
+    "name": "Detect Enchantment",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Detect Key",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Dispel",
+    "baseCost": "5",
+    "flags": "4"
+  },
+  {
+    "name": "Drain Alteration",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Agility",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Endurance",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Fatigue",
+    "baseCost": "2",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Health",
+    "baseCost": "4",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Intelligence",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Luck",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Magicka",
+    "baseCost": "4",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Personality",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Speed",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Strength",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Drain Willpower",
+    "baseCost": "1",
+    "flags": "1"
+  },
+  {
+    "name": "Feather",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fire Shield",
+    "baseCost": "3",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Agility",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Attack",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Endurance",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Fatigue",
+    "baseCost": "0.5",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Health",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Intelligence",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Luck",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Magicka",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Maximum Magicka",
+    "baseCost": "4",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Personality",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Speed",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Strength",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Fortify Willpower",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Frost Damage",
+    "baseCost": "5",
+    "flags": "1"
+  },
+  {
+    "name": "Frost Shield",
+    "baseCost": "3",
+    "flags": "0"
+  },
+  {
+    "name": "Invisibility",
+    "baseCost": "20",
+    "flags": "4"
+  },
+  {
+    "name": "Levitate",
+    "baseCost": "3",
+    "flags": "0"
+  },
+  {
+    "name": "Light",
+    "baseCost": "0.2",
+    "flags": "0"
+  },
+  {
+    "name": "Lightning Shield",
+    "baseCost": "0.2",
+    "flags": "0"
+  },
+  {
+    "name": "Night Eye",
+    "baseCost": "0.2",
+    "flags": "0"
+  },
+  {
+    "name": "Paralyze",
+    "baseCost": "40",
+    "flags": "5"
+  },
+  {
+    "name": "Poison",
+    "baseCost": "9",
+    "flags": "1"
+  },
+  {
+    "name": "Recall",
+    "baseCost": "350",
+    "flags": "6"
+  },
+  {
+    "name": "Reflect",
+    "baseCost": "10",
+    "flags": "0"
+  },
+  {
+    "name": "Resist Common Disease",
+    "baseCost": "2",
+    "flags": "0"
+  },
+  {
+    "name": "Resist Fire",
+    "baseCost": "2",
+    "flags": "0"
+  },
+  {
+    "name": "Resist Frost",
+    "baseCost": "2",
+    "flags": "0"
+  },
+  {
+    "name": "Resist Magicka",
+    "baseCost": "2",
+    "flags": "0"
+  },
+  {
+    "name": "Resist Paralysis",
+    "baseCost": "0.2",
+    "flags": "0"
+  },
+  {
+    "name": "Resist Poison",
+    "baseCost": "2",
+    "flags": "1"
+  },
+  {
+    "name": "Resist Shock",
+    "baseCost": "2",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Agility",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Endurance",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Fatigue",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Health",
+    "baseCost": "5",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Intelligence",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Luck",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Magicka",
+    "baseCost": "5",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Personality",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Speed",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Strength",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Restore Willpower",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Spell Absorption",
+    "baseCost": "10",
+    "flags": "0"
+  },
+  {
+    "name": "Swift Swim",
+    "baseCost": "2",
+    "flags": "0"
+  },
+  {
+    "name": "Telekinesis",
+    "baseCost": "1",
+    "flags": "0"
+  },
+  {
+    "name": "Vampirism",
+    "baseCost": "5",
+    "flags": "7"
+  },
+  {
+    "name": "Water Breathing",
+    "baseCost": "3",
+    "flags": "4"
+  },
+  {
+    "name": "Water Walking",
+    "baseCost": "3",
+    "flags": "4"
+  },
+  {
+    "name": "Weakness to Fire",
+    "baseCost": "2",
+    "flags": "1"
+  },
+  {
+    "name": "Weakness to Poison",
+    "baseCost": "2",
+    "flags": "1"
+  }
+]
